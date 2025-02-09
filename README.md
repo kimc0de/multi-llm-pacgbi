@@ -47,3 +47,6 @@ deepseek/12-implement-something
 5. If the pipeline runs through all stages successfully, you can find the merge request with the LLM-generated code in **Code > Merge requests**.
 
 > **_CAUTION:_** The generated merge request must be reviewed by developers before merging into the main codebase to prevent unexpected or unintended changes.
+
+## Case Study
+To test out the PACGBI quickly, use the resource from our case study. 
