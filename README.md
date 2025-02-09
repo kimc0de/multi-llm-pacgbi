@@ -49,7 +49,7 @@ deepseek/12-implement-something
 > **_CAUTION:_** The generated merge request must be reviewed by developers before merging into the main codebase to prevent unexpected or unintended changes.
 
 ## Case Study
-To test out the PACGBI quickly, use the resource from our [case study](https://github.com/kimc0de/multi-llm-pacgbi/blob/main/CaseStudy.md). 
+To test out the multi-LLM PACGBI quickly, use the resource from our [case study](https://github.com/kimc0de/multi-llm-pacgbi/blob/main/CaseStudy.md). 
 
 ## License
 GNU GPLv3
